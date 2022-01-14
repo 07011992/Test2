@@ -1,0 +1,17 @@
+[33mcommit 1c6aa4ed392dfd2214b63c311ca474ed759d5345[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Priya Akhoury <admin.gagan@gmail.com>
+Date:   Fri Jan 14 09:35:36 2022 +0000
+
+    Adding test content2 in file1
+
+[33mcommit 6914b62707a01d1f30758162aa3ef2fe4fa3fd67[m
+Author: Priya Akhoury <admin.gagan@gmail.com>
+Date:   Fri Jan 14 09:34:43 2022 +0000
+
+    Adding test content in file1
+
+[33mcommit 85cf058b0880cd8dddaec2a7d5f78b77564d3267[m
+Author: EC2 Default User <ec2-user@ip-172-31-26-179.us-east-2.compute.internal>
+Date:   Fri Jan 14 09:29:32 2022 +0000
+
+    Added file1 for testing purpose
